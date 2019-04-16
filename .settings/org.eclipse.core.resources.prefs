@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/api.py=gbk
+encoding//src/crawler.py=gbk
+encoding//src/db.py=utf-8
+encoding//src/error.py=gbk
+encoding//src/getter.py=gbk
+encoding//src/run.py=utf-8
+encoding//src/scheduler.py=gbk
+encoding//src/tester.py=gbk
+encoding//src/utils.py=gbk
